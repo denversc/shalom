@@ -1,0 +1,25 @@
+\documentclass[12pt,fleqn]{article}
+
+\begin{document}
+
+1. Expand and simplify (4 points)
+
+\[
+4x(3x^2 + 5x^8) - 2x^3(1 - 5x^6)
+\]
+
+2. Find the greatest common factor (GCF) and factor it out (4 points)
+
+\[
+9x^2y^5 - 3x^3y^2
+\]
+
+3. Test your answer to question 1 by ``plugging in'' a  value for $x$;
+ensure that you get the same result
+when $x$ is plugged into the original equation
+and when $x$ is plugged into the final, expanded and simplified equation
+(2 points)
+
+\newpage
+
+\end{document}
